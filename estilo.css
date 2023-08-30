@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: cornflowerblue
+    background-color: cornflowerblue;
 }
 
 header {
-    background-color: brown
-    color: #f0f0f0;
+    background-color: #333;
+    color: #fff;
     text-align: center;
 
     padding: 20px 20px 20px 20px; 
@@ -68,7 +68,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #333; 
     color: #fff;
     text-align: center;
     padding: 1rem;
