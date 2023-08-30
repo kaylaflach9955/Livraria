@@ -6,11 +6,11 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: color(srgb red green blue)
+    background-color: cornflowerblue
 }
 
 header {
-    background-color: #333;
+    background-color: brown
     color: #f0f0f0;
     text-align: center;
 
