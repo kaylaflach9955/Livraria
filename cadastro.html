@@ -56,8 +56,23 @@
                         <div class="input-container">
                             <label for="isbn">ISBN</label>
                             <input type="text" name="isbn" id="isbn" placeholder="ISBN do Livro" pattern="\d{3}-\d{10}" required>
-                            
+                        
+                        <div class="input-container">
+                            <label for="ano">Ano</label>
+                            <input type="number" name="ano" id="ano" placeholder="Ano de Publicação" required>
                         </div>
+
+                        <div class="input-container">
+                            <label for="paginas">paginas</label>
+                            <input type="number" name="paginas" id="paginas" placeholder="Numero de paginas" required>
+                        </div>
+                        <div class="input-container">
+                            <label for="categoria">categoria</label>
+                            <select name="categoria" id="categoria" required>
+                                <option value="Selecione"</option>
+                                <option value="Acao">Acao</option>
+                                <option value="Aventura">Aventura</option>
+                            </select>
 
                     </div>
                 </fieldset>
