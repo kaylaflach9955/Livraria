@@ -86,3 +86,11 @@ nav ul li:hover {
 header h1 {
     margin-bottom: 10px;
 }
+.container {
+    width: 1200px;
+    max-width: 100%;
+    margin: 0%;
+    padding: 20px;
+    background-color: fff;
+    box-shadow: 0 2px 4px rgba(red, green, blue, alpha);
+}
